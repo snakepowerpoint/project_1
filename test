@@ -1,0 +1,38 @@
+[33mcommit cadbada3a8e98eb9bef2466fcd75ad587ec06c1f[m[33m ([m[1;36mHEAD -> [m[1;32mbranch_a[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: fe837f9 ed77138
+Author: snakepowerpoint <snakepowerpoint@gmail.com>
+Date:   Mon Mar 5 14:36:10 2018 +0800
+
+    Merge branch 'master' of https://github.com/snakepowerpoint/project_1
+    
+    test
+
+[33mcommit fe837f966fa48be575637b473240335ff8a6c8f0[m
+Author: snakepowerpoint <snakepowerpoint@gmail.com>
+Date:   Mon Mar 5 14:32:49 2018 +0800
+
+    test
+
+[33mcommit caa089dc805e6a8612305086e0bc794f3b0a1350[m
+Author: snakepowerpoint <snakepowerpoint@gmail.com>
+Date:   Mon Mar 5 14:29:25 2018 +0800
+
+    test
+
+[33mcommit ed7713834962ffc27bd3be7d3d3c6af59cc23340[m
+Author: Jheng-Yu <snakepowerpoint@gmail.com>
+Date:   Mon Mar 5 14:24:41 2018 +0800
+
+    Update hello.txt
+
+[33mcommit fc4b758141bdae24c648cc3562b001d17fd6c13c[m
+Author: snakepowerpoint <snakepowerpoint@gmail.com>
+Date:   Mon Mar 5 12:00:22 2018 +0800
+
+    Add a new line
+
+[33mcommit 718cea28daed74da8a157e3b4855335064faba8a[m
+Author: snakepowerpoint <snakepowerpoint@gmail.com>
+Date:   Mon Mar 5 11:49:04 2018 +0800
+
+    Add a line
